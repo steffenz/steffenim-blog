@@ -14,5 +14,10 @@ My plan is to build everything with NextJS from Markdown and host it at Netlify.
 Again, this is a work in progress. Thanks for stepping by! :smiley_cat:
 
 
+## Some project ideas
+
+- Compressing video properly with VP8/VP9 and H264/H265. Also images with WEBP.
+- Setting up a dead simple kiosk with RBPi. Ubuntu + Chrome + React + GitHub pages (how I solved a stand presentation in minutes).
+- What I've learned from launching projects on Gatsby and NextJS.
 
 
