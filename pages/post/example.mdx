@@ -1,0 +1,15 @@
+import Post from '~/components/Post';
+
+export const meta = {
+  title: '',
+  description: '',
+  published: '',
+  authors: [],
+  url: ''
+}
+
+# Welcome to my new blog!
+
+After 
+
+export default ({ children }) => <Post meta={meta}>{children}</Post>

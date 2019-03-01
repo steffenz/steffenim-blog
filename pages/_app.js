@@ -10,11 +10,14 @@ export default class MyApp extends App {
       pageProps = await Component.getInitialProps(ctx)
     }
 
+    
+
     return { pageProps }
   }
 
   render () {
-    const { Component, pageProps } = this.props
+    const { Component, pageProps } = this.props;
+    console.log(Component);
     return (
       <Container>
         <Layout>

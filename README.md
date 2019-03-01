@@ -21,3 +21,9 @@ Again, this is a work in progress. Thanks for stepping by! :smiley_cat:
 - What I've learned from launching projects on Gatsby and NextJS.
 
 
+## Inspiration projects:
+https://github.com/timothyis/mdx-example
+
+https://github.com/johnlindquist/next-mdx-blog
+
+https://github.com/zeit/docs
